@@ -13,7 +13,6 @@
     * Label
     * Input
     * Submit
-    * Erros (html5)
     * [resource - success](http://www.mocky.io/v2/5a9334003100006600ab0a1b)
 * Como certas tags se apresentam
 * [Style](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/style) & [Link](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/link)
