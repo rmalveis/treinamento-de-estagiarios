@@ -5,6 +5,6 @@ Este material consiste em uma coletânea de materiais disponibilizados livrement
 
 ### Tópicos
 * [Introdução](https://www.volleyball.ca/en)
-* Histórico
+* [Histórico](https://pt.wikipedia.org/wiki/HTML)
 
 

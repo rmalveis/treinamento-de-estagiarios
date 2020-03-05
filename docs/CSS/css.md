@@ -18,7 +18,7 @@
     * Adaptabilidade
     * Media Queries
 * Exemplo 2 (termos e condições)
-    * [recurso](https://www.fabricadafelicidade.com.br) 
+    * [recurso](https://www.cocacola.com.br/pt/termos-de-uso/) 
 * Outros exemplos e cenários menos comuns
     * Uso da tag Style
     * Style Inline
