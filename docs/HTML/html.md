@@ -7,10 +7,11 @@
 * [Doctype](https://developer.mozilla.org/pt-BR/docs/Glossario/Doctype)
 * [Tags](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico#Marcando_o_texto)
 * [Imagens](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico#Imagens)
-* [Semântica](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#Annotating_images_with_figures_and_figure_captions)
+* [Elementos](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+* [Semântica](https://developer.mozilla.org/pt-BR/docs/Glossario/Semantica#sem%C3%A2ntica_em_html)
 * Exemplo(Grumpy)
-* [Tabelas](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Tables/Basics)
-* [Forms](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Forms/Your_first_HTML_form)
+* [Tabelas](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Tables/Basics)
+* [Forms](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML)
     * Label
     * Input
     * Submit
